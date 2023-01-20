@@ -9,4 +9,4 @@ branch:CS
 subject:FSD
 college:GWPT
 university:DTE
-phone no:;9876543211
+phone no:9876543211
