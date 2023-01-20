@@ -1,0 +1,12 @@
+name:nabila fatima
+fathername:abdul rauf
+mother name:naiyer sultana
+age:19+
+emailaddress:nabilashaikh044@gmail.com
+address:kalaburgi
+semester:5th
+branch:CS
+subject:FSD
+college:GWPT
+university:DTE
+phone no:;9876543211
